@@ -7,7 +7,7 @@
 "winner": "",
 "winner_party": "",
 "loser": "",
-"detail": "Khoảng 01:30 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
+"detail": "Khoảng 02:35 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
 "called_by": ""
 },
 {
@@ -37,7 +37,7 @@
 "winner": "",
 "winner_party": "",
 "loser": "",
-"detail": "Chưa gọi. Theo NBC: Sullivan (R, đương nhiệm) 48,5%, Peltola (D) 47,7%, đã đếm khoảng 69%. Chưa ai quá 50%. Theo Newsweek, bang sẽ cập nhật số phiếu vào các ngày 10, 13 và 18/11; nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11, dự kiến chứng nhận trước 25/11.",
+"detail": "Chưa gọi. Theo NBC: Sullivan (R, đương nhiệm) 48,5%, Peltola (D) 47,7%, đã đếm khoảng 72%. Chưa ai quá 50%. Theo Newsweek, bang sẽ cập nhật số phiếu vào các ngày 10, 13 và 18/11; nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11, dự kiến chứng nhận trước 25/11.",
 "called_by": "NBC, Newsweek, Alaska Public Media"
 },
 {
@@ -47,8 +47,8 @@
 "winner": "",
 "winner_party": "",
 "loser": "",
-"detail": "Chưa gọi, quá sát. NBC: Colom (D) 48,9%, Hyde-Smith (R, đương nhiệm) 48,9%, còn khoảng 44.000 phiếu chưa đếm. Theo WLOX, Colom dẫn 43 phiếu (462.821 – 462.778) lúc 3 giờ sáng. Phiếu affidavit có thể mất đến 5 ngày làm việc để đếm; bang này không có vòng bầu lại.",
-"called_by": "NBC, WLOX, Magnolia Tribune"
+"detail": "Chưa gọi, quá sát. NBC: Colom (D) 48,9%, Hyde-Smith (R, đương nhiệm) 48,9%, còn khoảng 44.000 phiếu chưa đếm. Colom đang dẫn 43 phiếu (462.821 – 462.778). Phiếu affidavit có thể mất đến 5 ngày làm việc để đếm; bang này không có vòng bầu lại và không tự động đếm lại, nhưng có thể xin tòa cho đếm lại.",
+"called_by": "NBC, WLOX, HuffPost"
 },
 {
 "id": "s-tx",
@@ -591,6 +591,16 @@
 "called_by": "Fox News"
 },
 {
+"id": "g-nv",
+"section": "governor",
+"state": "Nevada",
+"winner": "Aaron Ford (D)",
+"winner_party": "D",
+"loser": "Joe Lombardo (R, đương nhiệm)",
+"detail": "Lật ghế từ Cộng hòa; 51,5% – 44,3%. Ford sẽ là thống đốc da đen đầu tiên của Nevada.",
+"called_by": "AP, NBC"
+},
+{
 "id": "g-fl",
 "section": "governor",
 "state": "Florida",
@@ -729,16 +739,6 @@
 "loser": "",
 "detail": "Chưa gọi. NBC: Holscher (D) 50,3%, Masterson (R) 49,7%, còn khoảng 57.000 phiếu. KWCH ghi Holscher dẫn 5.557 phiếu. Các quận còn nhận phiếu gửi thư (đóng dấu trước ngày bầu cử) đến thứ Sáu 6/11.",
 "called_by": "Chưa có hãng nào gọi (số liệu: NBC, KWCH)"
-},
-{
-"id": "g-nv",
-"section": "governor",
-"state": "Nevada",
-"winner": "",
-"winner_party": "",
-"loser": "",
-"detail": "Chưa gọi. NBC: Ford (D) 51,3%, Lombardo (R, đương nhiệm) 44,7%, đã đếm khoảng 72%.",
-"called_by": "Chưa có hãng nào gọi (số liệu: NBC)"
 },
 {
 "id": "h-pa",

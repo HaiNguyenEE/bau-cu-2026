@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 10:20 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 11:25 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,7 +17,7 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC (cập nhật gần nhất em thấy): Dân chủ 236 ghế, Cộng hòa 146, còn 53 ghế chưa gọi; sau đó NBC gọi thêm CA-22, MI-10, MI-4 cho Dân chủ. NBC dự báo kết quả cuối khoảng Dân chủ 258 – Cộng hòa 177 (đa số 81 ghế), nhiều nhất kể từ năm 1993. (AP sáng thứ Tư: 228 – 139, còn 68 ghế chưa gọi.)",
+   "detail": "Theo NBC lúc khoảng 11:25 PT: Dân chủ 242 ghế, Cộng hòa 146, còn 47 ghế chưa gọi. NBC dự báo kết quả cuối khoảng Dân chủ 258 – Cộng hòa 177 (đa số 81 ghế), nhiều nhất kể từ năm 1993. (AP lúc 12:30 trưa giờ miền Đông: 229 – 139, còn 67 ghế chưa gọi.)",
    "called_by": "AP (theo Yahoo News), NBC, CBS, ABC"
   },
   {
@@ -37,8 +37,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. Sáng thứ Tư Peltola (D) vượt lên: 102.701 phiếu (48,02%) so với Sullivan (R, đương nhiệm) 102.075 (47,73%), dẫn 626 phiếu (Sở Bầu cử Alaska, 394/401 điểm bầu; AP cũng ghi số này, khoảng 74% phiếu dự kiến). Decision Desk HQ: Peltola dẫn khoảng 500 phiếu, 48,2% – 47,9%. Chưa ai quá 50%. Còn nhiều phiếu bầu sớm/gửi thư chưa đếm; bang nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, AP, Decision Desk HQ)"
+   "detail": "Chưa gọi. Sáng thứ Tư Peltola (D) vượt lên: 102.701 phiếu (48,02%) so với Sullivan (R, đương nhiệm) 102.075 (47,73%), dẫn 626 phiếu (Sở Bầu cử Alaska, 394/401 điểm bầu; AP/NBC ghi 48,2% – 47,9%, khoảng 74% phiếu dự kiến). Chưa ai quá 50%. Theo Sở Bầu cử, bang không bắt buộc công bố thêm số liệu cho đến 10/11, khi phần lớn phiếu bầu sớm và phiếu gửi thư còn lại được đếm; bang nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, AP/NBC, The Hill)"
   },
   {
    "id": "o-ms",
@@ -944,7 +944,7 @@
    "id": "h-mi4",
    "section": "house",
    "state": "Michigan – MI-4",
-   "winner": "McCann (D)",
+   "winner": "Sean McCann (D)",
    "winner_party": "D",
    "loser": "Bill Huizenga (R, đương nhiệm)",
    "detail": "Lật ghế từ Cộng hòa (NBC: 50,1% – 48,3%)",

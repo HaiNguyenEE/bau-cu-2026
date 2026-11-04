@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 07:50 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 08:55 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,7 +17,7 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC lúc 07:50 PT (chưa đổi so với lần trước): Dân chủ 231 ghế, Cộng hòa 144, còn 60 ghế chưa gọi. NBC dự báo Dân chủ sẽ có khoảng 258 ghế, nhiều nhất kể từ năm 1993.",
+   "detail": "Theo NBC lúc khoảng 08:55 PT: Dân chủ 236 ghế, Cộng hòa 146, còn 53 ghế chưa gọi. NBC dự báo Dân chủ sẽ có khoảng 258 ghế, nhiều nhất kể từ năm 1993. (AP sáng thứ Tư: 228 – 139, còn 68 ghế chưa gọi.)",
    "called_by": "AP (theo Yahoo News), NBC, CBS, ABC"
   },
   {
@@ -37,8 +37,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. Bản kết quả không chính thức của Sở Bầu cử Alaska lúc 2:19 sáng 4/11 (giờ Alaska), hơn 98% điểm bầu đã báo cáo: Peltola (D) 102.701 phiếu (48,02%), Sullivan (R, đương nhiệm) 102.075 (47,73%), Peltola dẫn 626 phiếu. Bảng của NBC (số liệu AP, ít phiếu hơn) trước đó vẫn ghi Sullivan dẫn 48,5% – 47,7%. Chưa ai quá 50%. Bang còn nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, Alaska Public Media, NBC)"
+   "detail": "Chưa gọi. Sáng thứ Tư Peltola (D) vượt lên: 102.701 phiếu (48,02%) so với Sullivan (R, đương nhiệm) 102.075 (47,73%), dẫn 626 phiếu (Sở Bầu cử Alaska, 394/401 điểm bầu; AP cũng ghi số này, khoảng 74% phiếu dự kiến). Decision Desk HQ: Peltola dẫn khoảng 500 phiếu, 48,2% – 47,9%. Chưa ai quá 50%. Còn nhiều phiếu bầu sớm/gửi thư chưa đếm; bang nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, AP, Decision Desk HQ)"
   },
   {
    "id": "o-ms",
@@ -47,8 +47,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi, quá sát. NBC: Colom (D) 48,9%, Hyde-Smith (R, đương nhiệm) 48,9%, đã đếm 95,6%, còn khoảng 44.000 phiếu. Colom đang dẫn 43 phiếu (462.821 – 462.778). Quận Hinds tạm ngưng đếm sau nửa đêm và đã đếm tiếp sáng thứ Tư; phía Colom ước còn 10.000–15.000 phiếu affidavit, phía Hyde-Smith nói số liệu nội bộ cho thấy bà sẽ thắng. Bang này không có vòng bầu lại và không tự động đếm lại, nhưng có thể xin tòa cho đếm lại.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: NBC, AP qua Darkhorse Press, HuffPost)"
+   "detail": "Chưa gọi, quá sát. AP/NBC: Colom (D) 462.821 – Hyde-Smith (R, đương nhiệm) 462.778, Colom dẫn 43 phiếu, đã đếm khoảng 95,6%, còn khoảng 44.000 phiếu. 10 giờ sáng thứ Tư Colom nói với người ủng hộ rằng ông tin số phiếu còn lại sẽ giúp ông thắng; phía Hyde-Smith nói số liệu nội bộ cho thấy bà sẽ thắng. Phía Colom ước còn 10.000–15.000 phiếu affidavit; cử tri bỏ phiếu affidavit có 5 ngày làm việc để xác minh danh tính, phiếu gửi thư cũng có 5 ngày làm việc để đến. Bang này không có vòng bầu lại và không tự động đếm lại, nhưng có thể xin tòa cho đếm lại.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: AP, NBC, WLBT, Democracy Docket)"
   },
   {
    "id": "s-tx",
@@ -737,8 +737,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. AP lúc 6 giờ sáng (giờ miền Trung): Holscher (D) 50,3%, Masterson (R) 49,7%, đã đếm 98%. WIBW lúc 6:45 sáng: 546.587 – 541.030 (Holscher dẫn khoảng 5.500 phiếu). Sáng thứ Tư Masterson nói kết quả đếm lần đầu có vẻ không nghiêng về ông, nhưng cách biệt đủ sát để luật Kansas cho xem xét lại, và ông sẽ chờ quá trình đó xong (chưa nhận thua). Các quận còn nhận phiếu gửi thư (đóng dấu trước ngày bầu cử) đến thứ Sáu 6/11.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: AP qua Axios, WIBW, KSHB)"
+   "detail": "Chưa có hãng nào gọi. Văn phòng Ngoại trưởng Kansas: Holscher (D) 546.587 – Masterson (R) 541.030, Holscher dẫn 5.557 phiếu, đủ 100% điểm bầu. Holscher đã ra tuyên bố nhận chiến thắng; Masterson thì yêu cầu bang \"xem xét lại\" kết quả vì cách biệt sát (chưa rõ là kiểm toán bắt buộc hay xin đếm lại). Còn phiếu tạm (provisional) và phiếu gửi thư đến trước thứ Sáu 6/11.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: Kansas Reflector, KCTV, WIBW)"
   },
   {
    "id": "h-pa",

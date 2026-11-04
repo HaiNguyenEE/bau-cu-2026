@@ -116,7 +116,7 @@
     card.appendChild(el('h2', null, s.label));
     card.appendChild(el('p', 'status', ctl ? ctl.winner : ''));
     var nums = el('div', 'nums');
-    [['d', d, 'Dân chủ'], ['u', left, 'Chưa có kết quả'], ['r', r, 'Cộng hòa']].forEach(function (x) {
+    [['d', d, 'Dân chủ đã thắng'], ['u', left, 'Chưa có kết quả'], ['r', r, 'Cộng hòa đã thắng']].forEach(function (x) {
       var n = el('div', 'num ' + x[0]); n.appendChild(el('b', null, fmt(x[1]))); n.appendChild(el('span', null, x[2])); nums.appendChild(n);
     });
     card.appendChild(nums);

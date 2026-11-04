@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 09:55 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 10:20 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,7 +17,7 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC lúc khoảng 09:55 PT: Dân chủ 236 ghế, Cộng hòa 146, còn 53 ghế chưa gọi. NBC dự báo Dân chủ sẽ có khoảng 258 ghế, nhiều nhất kể từ năm 1993. (AP sáng thứ Tư: 228 – 139, còn 68 ghế chưa gọi.)",
+   "detail": "Theo NBC (cập nhật gần nhất em thấy): Dân chủ 236 ghế, Cộng hòa 146, còn 53 ghế chưa gọi; sau đó NBC gọi thêm CA-22, MI-10, MI-4 cho Dân chủ. NBC dự báo kết quả cuối khoảng Dân chủ 258 – Cộng hòa 177 (đa số 81 ghế), nhiều nhất kể từ năm 1993. (AP sáng thứ Tư: 228 – 139, còn 68 ghế chưa gọi.)",
    "called_by": "AP (theo Yahoo News), NBC, CBS, ABC"
   },
   {
@@ -47,8 +47,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi, quá sát. AP/NBC: Colom (D) 462.821 – Hyde-Smith (R, đương nhiệm) 462.778, Colom dẫn 43 phiếu, đã đếm khoảng 95,6%, còn khoảng 44.000 phiếu. 10 giờ sáng thứ Tư Colom nói với người ủng hộ rằng ông tin số phiếu còn lại sẽ giúp ông thắng; phía Hyde-Smith nói số liệu nội bộ cho thấy bà sẽ thắng. Phía Colom ước còn 10.000–15.000 phiếu affidavit; cử tri bỏ phiếu affidavit có 5 ngày làm việc để xác minh danh tính, phiếu gửi thư cũng có 5 ngày làm việc để đến. Bang này không có vòng bầu lại và không tự động đếm lại, nhưng có thể xin tòa cho đếm lại.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: AP, NBC, WLBT, Democracy Docket)"
+   "detail": "Chưa gọi, quá sát. Lúc 11:30 sáng thứ Tư (giờ miền Trung), đã đếm 95,6%: Colom (D) 462.857 – Hyde-Smith (R, đương nhiệm) 462.792, Colom dẫn 65 phiếu. Cả hai bên đều nói tin mình sẽ thắng; phía Hyde-Smith nói đang theo dõi sát và tin rằng khi mọi lá phiếu hợp lệ được đếm đủ, bà sẽ tái đắc cử. Còn phiếu ở quận Hinds; phía Colom ước còn 10.000–15.000 phiếu affidavit (cử tri có 5 ngày làm việc để xác minh danh tính); phiếu gửi thư được nhận đến 10/11. Bang này không có vòng bầu lại và không tự động đếm lại, nhưng có thể xin tòa cho đếm lại.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: AP/NBC qua WLOX, Mississippi Free Press)"
   },
   {
    "id": "s-tx",
@@ -737,7 +737,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa có hãng nào gọi (AP vẫn chưa gọi lúc 11 giờ sáng giờ miền Trung). Văn phòng Ngoại trưởng Kansas: Holscher (D) 546.587 – Masterson (R) 541.030, Holscher dẫn 5.557 phiếu. Holscher đã ra tuyên bố nhận chiến thắng và Thống đốc Laura Kelly đã chúc mừng bà; Masterson chưa nhận thua, nói luật Kansas đòi \"xem xét lại\" vì cách biệt sát. Theo KCUR: luật Kansas buộc kiểm toán 10% điểm bầu khi cách biệt dưới 1%, và Masterson có thể xin đếm lại toàn bộ sau khi các quận chứng nhận kết quả. Còn phiếu tạm và phiếu gửi thư đến trước thứ Sáu 6/11.",
+   "detail": "Chưa có hãng nào gọi (AP vẫn chưa gọi tính đến trưa thứ Tư giờ miền Đông; AP chỉ gọi khi không còn khả năng người đang thua bắt kịp). Văn phòng Ngoại trưởng Kansas: Holscher (D) 546.587 – Masterson (R) 541.030, Holscher dẫn 5.557 phiếu. Holscher đã ra tuyên bố nhận chiến thắng và Thống đốc Laura Kelly đã chúc mừng bà; Masterson chưa nhận thua, nói luật Kansas đòi \"xem xét lại\" vì cách biệt sát. Theo KCUR: luật Kansas buộc kiểm toán 10% điểm bầu khi cách biệt dưới 1%, và Masterson có thể xin đếm lại toàn bộ sau khi các quận chứng nhận kết quả. Còn phiếu tạm và phiếu gửi thư đến trước thứ Sáu 6/11.",
    "called_by": "Chưa có hãng nào gọi (số liệu: Kansas Reflector, KSN, KCUR)"
   },
   {
@@ -919,6 +919,36 @@
    "loser": "",
    "detail": "Lật ghế từ Cộng hòa",
    "called_by": "AP (theo Fox News), ABC"
+  },
+  {
+   "id": "h-ca22",
+   "section": "house",
+   "state": "California – CA-22",
+   "winner": "Randy Villegas (D)",
+   "winner_party": "D",
+   "loser": "David Valadao (R, đương nhiệm)",
+   "detail": "Lật ghế từ Cộng hòa",
+   "called_by": "NBC"
+  },
+  {
+   "id": "h-mi10",
+   "section": "house",
+   "state": "Michigan – MI-10",
+   "winner": "Christina Hines (D)",
+   "winner_party": "D",
+   "loser": "Michael Bouchard (R)",
+   "detail": "Lật ghế từ Cộng hòa",
+   "called_by": "NBC"
+  },
+  {
+   "id": "h-mi4",
+   "section": "house",
+   "state": "Michigan – MI-4",
+   "winner": "McCann (D)",
+   "winner_party": "D",
+   "loser": "Bill Huizenga (R, đương nhiệm)",
+   "detail": "Lật ghế từ Cộng hòa (NBC: 50,1% – 48,3%)",
+   "called_by": "NBC"
   }
  ]
 }

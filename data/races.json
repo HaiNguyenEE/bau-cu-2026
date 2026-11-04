@@ -7,7 +7,7 @@
 "winner": "",
 "winner_party": "",
 "loser": "",
-"detail": "Khoảng 23:45 tối thứ Ba 3/11/2026 (giờ Thái Bình Dương)",
+"detail": "Khoảng 00:40 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
 "called_by": ""
 },
 {
@@ -201,24 +201,24 @@
 "called_by": "NBC, Washington Post"
 },
 {
+"id": "o-ne",
+"section": "senate_called",
+"state": "Nebraska",
+"winner": "Pete Ricketts (R, đương nhiệm)",
+"winner_party": "R",
+"loser": "Dan Osborn (độc lập)",
+"detail": "Cộng hòa giữ ghế. AP chưa gọi lúc 1h30 sáng giờ Nebraska.",
+"called_by": "NBC"
+},
+{
 "id": "o-ak",
 "section": "senate_open",
 "state": "Alaska",
 "winner": "",
 "winner_party": "",
 "loser": "",
-"detail": "Chưa gọi. Theo NBC: Sullivan (R, đương nhiệm) 48,7%, Peltola (D) 47,5%. Theo Alaska Beacon, chưa ai đủ phiếu để tránh vòng tính phiếu xếp hạng (ranked choice).",
+"detail": "Chưa gọi. Theo NBC: Sullivan (R, đương nhiệm) 48,6%, Peltola (D) 47,6%, đã đếm khoảng 68%. Theo Alaska Beacon, chưa ai đủ phiếu để tránh vòng tính phiếu xếp hạng (ranked choice).",
 "called_by": "NBC, Alaska Beacon"
-},
-{
-"id": "o-ne",
-"section": "senate_open",
-"state": "Nebraska",
-"winner": "",
-"winner_party": "",
-"loser": "",
-"detail": "Chưa gọi. Theo WOWT lúc 0:06 sáng (giờ Nebraska): Ricketts (R, đương nhiệm) 49%, Osborn (độc lập) 45%.",
-"called_by": "WOWT"
 },
 {
 "id": "o-ms",
@@ -227,8 +227,8 @@
 "winner": "",
 "winner_party": "",
 "loser": "",
-"detail": "Chưa gọi, quá sát. Theo NBC: Colom (D) 48,9%, Hyde-Smith (R, đương nhiệm) 48,9%, đã đếm khoảng 97%.",
-"called_by": "NBC"
+"detail": "Chưa gọi, quá sát. Colom (D) dẫn Hyde-Smith (R, đương nhiệm) đúng 28 phiếu (462.779 so với 462.751), đã đếm khoảng 97%. Phiếu affidavit thường được đếm sau ngày bầu cử nên có thể mất vài ngày.",
+"called_by": "AP (qua SuperTalk Mississippi), HuffPost"
 },
 {
 "id": "g-ca",

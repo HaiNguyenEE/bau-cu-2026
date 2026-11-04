@@ -1,51 +1,464 @@
-{"rows": [
-{"id": "asof", "section": "info", "state": "", "winner": "", "winner_party": "", "loser": "", "detail": "Khoảng 22:15 tối thứ Ba 3/11/2026 (giờ Thái Bình Dương)", "called_by": ""},
-
-{"id": "ctl-house", "section": "control", "state": "Hạ viện", "winner": "Dân chủ giành quyền kiểm soát", "winner_party": "D", "loser": "", "detail": "NBC ước tính Dân chủ được khoảng 255 ghế (cần 218 để chiếm đa số). NBC cho biết Dân chủ đã có đủ 218 ghế được xác nhận.", "called_by": "CBS, NBC"},
-{"id": "ctl-senate", "section": "control", "state": "Thượng viện", "winner": "Dân chủ giành quyền kiểm soát", "winner_party": "D", "loser": "", "detail": "Dân chủ lật các ghế ở Texas, Ohio, North Carolina, South Carolina, Kansas, Iowa và Maine.", "called_by": "CBS (CNBC cũng đưa tin)"},
-
-{"id": "s-tx", "section": "senate_called", "state": "Texas", "winner": "James Talarico (D)", "winner_party": "D", "loser": "Ken Paxton (R)", "detail": "Lật ghế từ Cộng hòa", "called_by": "CBS, Roll Call"},
-{"id": "s-oh", "section": "senate_called", "state": "Ohio", "winner": "Sherrod Brown (D)", "winner_party": "D", "loser": "Jon Husted (R, đương nhiệm)", "detail": "Lật ghế từ Cộng hòa", "called_by": "NBC, Roll Call"},
-{"id": "s-nc", "section": "senate_called", "state": "North Carolina", "winner": "Roy Cooper (D)", "winner_party": "D", "loser": "Michael Whatley (R)", "detail": "Lật ghế từ Cộng hòa", "called_by": "AP (theo CNBC), CBS"},
-{"id": "s-sc", "section": "senate_called", "state": "South Carolina", "winner": "Annie Andrews (D)", "winner_party": "D", "loser": "Darline Graham (R, đương nhiệm)", "detail": "Lật ghế từ Cộng hòa; Graham đã nhận thua", "called_by": "CBS, CNBC"},
-{"id": "s-ks", "section": "senate_called", "state": "Kansas", "winner": "Adam Hamilton (D)", "winner_party": "D", "loser": "", "detail": "Lật ghế từ Cộng hòa", "called_by": "CBS, CNBC"},
-{"id": "s-ia", "section": "senate_called", "state": "Iowa", "winner": "Josh Turek (D)", "winner_party": "D", "loser": "Ashley Hinson (R)", "detail": "Lật ghế từ Cộng hòa", "called_by": "CBS"},
-{"id": "s-me", "section": "senate_called", "state": "Maine", "winner": "Troy Jackson (D)", "winner_party": "D", "loser": "Susan Collins (R, đương nhiệm)", "detail": "Lật ghế từ Cộng hòa", "called_by": "NBC, CBS"},
-{"id": "s-ga", "section": "senate_called", "state": "Georgia", "winner": "Jon Ossoff (D, đương nhiệm)", "winner_party": "D", "loser": "Mike Collins (R)", "detail": "Dân chủ giữ ghế", "called_by": "Roll Call, CNBC"},
-{"id": "s-nh", "section": "senate_called", "state": "New Hampshire", "winner": "Chris Pappas (D)", "winner_party": "D", "loser": "John E. Sununu (R)", "detail": "Dân chủ giữ ghế", "called_by": "CNBC, Roll Call"},
-{"id": "s-mn", "section": "senate_called", "state": "Minnesota", "winner": "Peggy Flanagan (D)", "winner_party": "D", "loser": "Michele Tafoya (R)", "detail": "Dân chủ giữ ghế; Tafoya đã nhận thua", "called_by": "CBS, NBC, Fox News"},
-{"id": "s-or", "section": "senate_called", "state": "Oregon", "winner": "Jeff Merkley (D, đương nhiệm)", "winner_party": "D", "loser": "", "detail": "Tái đắc cử", "called_by": "NBC"},
-{"id": "s-la", "section": "senate_called", "state": "Louisiana", "winner": "Julia Letlow (R)", "winner_party": "R", "loser": "", "detail": "", "called_by": "NBC"},
-{"id": "s-al", "section": "senate_called", "state": "Alabama", "winner": "Barry Moore (R)", "winner_party": "R", "loser": "", "detail": "", "called_by": "NBC"},
-{"id": "s-ar", "section": "senate_called", "state": "Arkansas", "winner": "Tom Cotton (R, đương nhiệm)", "winner_party": "R", "loser": "", "detail": "Tái đắc cử", "called_by": "NBC"},
-{"id": "s-sd", "section": "senate_called", "state": "South Dakota", "winner": "Mike Rounds (R, đương nhiệm)", "winner_party": "R", "loser": "", "detail": "Tái đắc cử", "called_by": "NBC"},
-
-{"id": "o-mi", "section": "senate_open", "state": "Michigan", "winner": "", "winner_party": "", "loser": "", "detail": "Chưa gọi. Theo NBC: El-Sayed (D) 51,9%, Rogers (R) 46,2%; Rogers cần khoảng 57,8% số phiếu còn lại để vượt lên. Khoảng cách đang thu hẹp.", "called_by": "NBC, Bridge Michigan"},
-{"id": "o-ak", "section": "senate_open", "state": "Alaska", "winner": "", "winner_party": "", "loser": "", "detail": "Chưa gọi. Còn quá sớm để gọi cuộc đua giữa Dan Sullivan (R) và Mary Peltola (D).", "called_by": "Fox News Decision Desk"},
-{"id": "o-ne", "section": "senate_open", "state": "Nebraska", "winner": "", "winner_party": "", "loser": "", "detail": "Chưa gọi. Theo NBC: Ricketts (R) 48,9%, Osborn (độc lập) 45,1%. Số giữa các nguồn đang dao động theo từng đợt cập nhật.", "called_by": "NBC, WOWT"},
-{"id": "o-fl", "section": "senate_open", "state": "Florida", "winner": "", "winner_party": "", "loser": "", "detail": "Chưa gọi. CNBC mô tả là đang nghiêng về Cộng hòa.", "called_by": "CNBC"},
-{"id": "o-ms", "section": "senate_open", "state": "Mississippi", "winner": "", "winner_party": "", "loser": "", "detail": "Chưa tìm thấy kết quả. CBS trước đó xếp vào nhóm ngang ngửa.", "called_by": "CBS"},
-
-{"id": "g-ca", "section": "governor", "state": "California", "winner": "Xavier Becerra (D)", "winner_party": "D", "loser": "", "detail": "AP gọi kết quả ngay sau khi đóng phòng phiếu", "called_by": "AP (theo CalMatters)"},
-{"id": "g-tx", "section": "governor", "state": "Texas", "winner": "Gina Hinojosa (D)", "winner_party": "D", "loser": "Greg Abbott (R, đương nhiệm)", "detail": "Thống đốc Dân chủ đầu tiên của Texas sau 35 năm", "called_by": "Washington Post"},
-{"id": "g-ga", "section": "governor", "state": "Georgia", "winner": "Keisha Lance Bottoms (D)", "winner_party": "D", "loser": "", "detail": "Nữ thống đốc và thống đốc người Mỹ gốc Phi đầu tiên của Georgia", "called_by": "Washington Post"},
-{"id": "g-oh", "section": "governor", "state": "Ohio", "winner": "Amy Acton (D)", "winner_party": "D", "loser": "", "detail": "", "called_by": "Washington Post"},
-{"id": "g-ia", "section": "governor", "state": "Iowa", "winner": "Rob Sand (D)", "winner_party": "D", "loser": "", "detail": "", "called_by": "Washington Post"},
-{"id": "g-wi", "section": "governor", "state": "Wisconsin", "winner": "David Crowley (D)", "winner_party": "D", "loser": "", "detail": "Thống đốc da đen đầu tiên của Wisconsin", "called_by": "Washington Post"},
-{"id": "g-mn", "section": "governor", "state": "Minnesota", "winner": "Amy Klobuchar (D)", "winner_party": "D", "loser": "", "detail": "Nữ thống đốc đầu tiên của Minnesota", "called_by": "Washington Post"},
-{"id": "g-me", "section": "governor", "state": "Maine", "winner": "Hannah Pingree (D)", "winner_party": "D", "loser": "", "detail": "", "called_by": "Washington Post"},
-{"id": "g-pa", "section": "governor", "state": "Pennsylvania", "winner": "Josh Shapiro (D, đương nhiệm)", "winner_party": "D", "loser": "", "detail": "Tái đắc cử", "called_by": "Washington Post"},
-{"id": "g-md", "section": "governor", "state": "Maryland", "winner": "Wes Moore (D, đương nhiệm)", "winner_party": "D", "loser": "", "detail": "Tái đắc cử", "called_by": "Washington Post"},
-{"id": "g-fl", "section": "governor", "state": "Florida", "winner": "Byron Donalds (R)", "winner_party": "R", "loser": "David Jolly (D)", "detail": "Khoảng 50% so với 49%, với 99% khu bầu cử đã báo cáo", "called_by": "Washington Post"},
-{"id": "g-tn", "section": "governor", "state": "Tennessee", "winner": "Marsha Blackburn (R)", "winner_party": "R", "loser": "", "detail": "", "called_by": "Washington Post"},
-{"id": "g-nh", "section": "governor", "state": "New Hampshire", "winner": "Kelly Ayotte (R, đương nhiệm)", "winner_party": "R", "loser": "", "detail": "Tái đắc cử", "called_by": "Washington Post"},
-
-{"id": "h-pa7", "section": "house", "state": "Pennsylvania – PA-7", "winner": "Bob Brooks (D)", "winner_party": "D", "loser": "", "detail": "Dân chủ giành ghế từ Cộng hòa", "called_by": "NBC"},
-{"id": "h-pa", "section": "house", "state": "Pennsylvania (nhiều ghế)", "winner": "", "winner_party": "D", "loser": "", "detail": "4 dân biểu Cộng hòa đương nhiệm bị đánh bại", "called_by": "NBC"},
-{"id": "h-va2", "section": "house", "state": "Virginia – VA-2", "winner": "Elaine Luria (D)", "winner_party": "D", "loser": "", "detail": "Dân chủ giành ghế từ Cộng hòa", "called_by": "NBC"},
-{"id": "h-nc11", "section": "house", "state": "North Carolina – NC-11", "winner": "Jamie Ager (D)", "winner_party": "D", "loser": "", "detail": "Lật ghế; lần đầu Dân chủ thắng ghế này kể từ 2010", "called_by": "CBS"},
-{"id": "h-ia", "section": "house", "state": "Iowa (4 ghế)", "winner": "", "winner_party": "D", "loser": "", "detail": "Dân chủ lật 3 trong 4 ghế Hạ viện của bang", "called_by": "CBS"},
-{"id": "h-wi3", "section": "house", "state": "Wisconsin – WI-3", "winner": "Mitchell Berman (D)", "winner_party": "D", "loser": "Derrick Van Orden (R, đương nhiệm)", "detail": "Một trong 2 ghế Dân chủ lật ở Wisconsin", "called_by": "AP (theo CNBC)"},
-{"id": "h-ky6", "section": "house", "state": "Kentucky – KY-6", "winner": "", "winner_party": "D", "loser": "", "detail": "Dân chủ lật ghế từ Cộng hòa", "called_by": "AP (theo CNBC)"},
-{"id": "h-nj7", "section": "house", "state": "New Jersey – NJ-7", "winner": "", "winner_party": "D", "loser": "Tom Kean Jr. (R, đương nhiệm)", "detail": "Kean thua trong một cuộc lật ghế quan trọng", "called_by": "AP (theo CNBC)"}
-]}
+{
+"rows": [
+{
+"id": "asof",
+"section": "info",
+"state": "",
+"winner": "",
+"winner_party": "",
+"loser": "",
+"detail": "Khoảng 23:45 tối thứ Ba 3/11/2026 (giờ Thái Bình Dương)",
+"called_by": ""
+},
+{
+"id": "ctl-house",
+"section": "control",
+"state": "Hạ viện",
+"winner": "Dân chủ giành quyền kiểm soát",
+"winner_party": "D",
+"loser": "",
+"detail": "NBC ước tính Dân chủ được khoảng 255 ghế (cần 218 để chiếm đa số). NBC cho biết Dân chủ đã có đủ 218 ghế được xác nhận.",
+"called_by": "CBS, NBC"
+},
+{
+"id": "ctl-senate",
+"section": "control",
+"state": "Thượng viện",
+"winner": "Dân chủ giành quyền kiểm soát",
+"winner_party": "D",
+"loser": "",
+"detail": "Dân chủ đã lật 7 ghế: Texas, Ohio, North Carolina, South Carolina, Kansas, Iowa và Maine.",
+"called_by": "CBS (CNBC cũng đưa tin)"
+},
+{
+"id": "s-tx",
+"section": "senate_called",
+"state": "Texas",
+"winner": "James Talarico (D)",
+"winner_party": "D",
+"loser": "Ken Paxton (R)",
+"detail": "Lật ghế từ Cộng hòa",
+"called_by": "CBS, Roll Call"
+},
+{
+"id": "s-oh",
+"section": "senate_called",
+"state": "Ohio",
+"winner": "Sherrod Brown (D)",
+"winner_party": "D",
+"loser": "Jon Husted (R, đương nhiệm)",
+"detail": "Lật ghế từ Cộng hòa",
+"called_by": "NBC, Roll Call"
+},
+{
+"id": "s-nc",
+"section": "senate_called",
+"state": "North Carolina",
+"winner": "Roy Cooper (D)",
+"winner_party": "D",
+"loser": "Michael Whatley (R)",
+"detail": "Lật ghế từ Cộng hòa",
+"called_by": "AP (theo CNBC), CBS"
+},
+{
+"id": "s-sc",
+"section": "senate_called",
+"state": "South Carolina",
+"winner": "Annie Andrews (D)",
+"winner_party": "D",
+"loser": "Darline Graham (R, đương nhiệm)",
+"detail": "Lật ghế từ Cộng hòa; Graham đã nhận thua",
+"called_by": "CBS, CNBC"
+},
+{
+"id": "s-ks",
+"section": "senate_called",
+"state": "Kansas",
+"winner": "Adam Hamilton (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Lật ghế từ Cộng hòa",
+"called_by": "CBS, CNBC"
+},
+{
+"id": "s-ia",
+"section": "senate_called",
+"state": "Iowa",
+"winner": "Josh Turek (D)",
+"winner_party": "D",
+"loser": "Ashley Hinson (R)",
+"detail": "Lật ghế từ Cộng hòa",
+"called_by": "CBS"
+},
+{
+"id": "s-me",
+"section": "senate_called",
+"state": "Maine",
+"winner": "Troy Jackson (D)",
+"winner_party": "D",
+"loser": "Susan Collins (R, đương nhiệm)",
+"detail": "Lật ghế từ Cộng hòa",
+"called_by": "NBC, CBS"
+},
+{
+"id": "s-ga",
+"section": "senate_called",
+"state": "Georgia",
+"winner": "Jon Ossoff (D, đương nhiệm)",
+"winner_party": "D",
+"loser": "Mike Collins (R)",
+"detail": "Dân chủ giữ ghế",
+"called_by": "Roll Call, CNBC"
+},
+{
+"id": "s-nh",
+"section": "senate_called",
+"state": "New Hampshire",
+"winner": "Chris Pappas (D)",
+"winner_party": "D",
+"loser": "John E. Sununu (R)",
+"detail": "Dân chủ giữ ghế",
+"called_by": "CNBC, Roll Call"
+},
+{
+"id": "s-mn",
+"section": "senate_called",
+"state": "Minnesota",
+"winner": "Peggy Flanagan (D)",
+"winner_party": "D",
+"loser": "Michele Tafoya (R)",
+"detail": "Dân chủ giữ ghế; Tafoya đã nhận thua",
+"called_by": "CBS, NBC, Fox News"
+},
+{
+"id": "s-or",
+"section": "senate_called",
+"state": "Oregon",
+"winner": "Jeff Merkley (D, đương nhiệm)",
+"winner_party": "D",
+"loser": "",
+"detail": "Tái đắc cử",
+"called_by": "NBC"
+},
+{
+"id": "s-la",
+"section": "senate_called",
+"state": "Louisiana",
+"winner": "Julia Letlow (R)",
+"winner_party": "R",
+"loser": "",
+"detail": "",
+"called_by": "NBC"
+},
+{
+"id": "s-al",
+"section": "senate_called",
+"state": "Alabama",
+"winner": "Barry Moore (R)",
+"winner_party": "R",
+"loser": "",
+"detail": "",
+"called_by": "NBC"
+},
+{
+"id": "s-ar",
+"section": "senate_called",
+"state": "Arkansas",
+"winner": "Tom Cotton (R, đương nhiệm)",
+"winner_party": "R",
+"loser": "",
+"detail": "Tái đắc cử",
+"called_by": "NBC"
+},
+{
+"id": "s-sd",
+"section": "senate_called",
+"state": "South Dakota",
+"winner": "Mike Rounds (R, đương nhiệm)",
+"winner_party": "R",
+"loser": "",
+"detail": "Tái đắc cử",
+"called_by": "NBC"
+},
+{
+"id": "o-mi",
+"section": "senate_called",
+"state": "Michigan",
+"winner": "Abdul El-Sayed (D)",
+"winner_party": "D",
+"loser": "Mike Rogers (R)",
+"detail": "Dân chủ giữ ghế",
+"called_by": "AP, NBC, Fox News, Decision Desk HQ"
+},
+{
+"id": "o-fl",
+"section": "senate_called",
+"state": "Florida",
+"winner": "Ashley Moody (R, đương nhiệm)",
+"winner_party": "R",
+"loser": "Angie Nixon (D)",
+"detail": "Cộng hòa giữ ghế (bầu bổ sung)",
+"called_by": "NBC, Washington Post"
+},
+{
+"id": "o-ak",
+"section": "senate_open",
+"state": "Alaska",
+"winner": "",
+"winner_party": "",
+"loser": "",
+"detail": "Chưa gọi. Theo NBC: Sullivan (R, đương nhiệm) 48,7%, Peltola (D) 47,5%. Theo Alaska Beacon, chưa ai đủ phiếu để tránh vòng tính phiếu xếp hạng (ranked choice).",
+"called_by": "NBC, Alaska Beacon"
+},
+{
+"id": "o-ne",
+"section": "senate_open",
+"state": "Nebraska",
+"winner": "",
+"winner_party": "",
+"loser": "",
+"detail": "Chưa gọi. Theo WOWT lúc 0:06 sáng (giờ Nebraska): Ricketts (R, đương nhiệm) 49%, Osborn (độc lập) 45%.",
+"called_by": "WOWT"
+},
+{
+"id": "o-ms",
+"section": "senate_open",
+"state": "Mississippi",
+"winner": "",
+"winner_party": "",
+"loser": "",
+"detail": "Chưa gọi, quá sát. Theo NBC: Colom (D) 48,9%, Hyde-Smith (R, đương nhiệm) 48,9%, đã đếm khoảng 97%.",
+"called_by": "NBC"
+},
+{
+"id": "g-ca",
+"section": "governor",
+"state": "California",
+"winner": "Xavier Becerra (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "AP gọi kết quả ngay sau khi đóng phòng phiếu",
+"called_by": "AP (theo CalMatters)"
+},
+{
+"id": "g-tx",
+"section": "governor",
+"state": "Texas",
+"winner": "Gina Hinojosa (D)",
+"winner_party": "D",
+"loser": "Greg Abbott (R, đương nhiệm)",
+"detail": "Thống đốc Dân chủ đầu tiên của Texas sau 35 năm",
+"called_by": "Washington Post"
+},
+{
+"id": "g-ga",
+"section": "governor",
+"state": "Georgia",
+"winner": "Keisha Lance Bottoms (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Nữ thống đốc và thống đốc người Mỹ gốc Phi đầu tiên của Georgia",
+"called_by": "Washington Post"
+},
+{
+"id": "g-oh",
+"section": "governor",
+"state": "Ohio",
+"winner": "Amy Acton (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "",
+"called_by": "Washington Post"
+},
+{
+"id": "g-ia",
+"section": "governor",
+"state": "Iowa",
+"winner": "Rob Sand (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "",
+"called_by": "Washington Post"
+},
+{
+"id": "g-wi",
+"section": "governor",
+"state": "Wisconsin",
+"winner": "David Crowley (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Thống đốc da đen đầu tiên của Wisconsin",
+"called_by": "Washington Post"
+},
+{
+"id": "g-mn",
+"section": "governor",
+"state": "Minnesota",
+"winner": "Amy Klobuchar (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Nữ thống đốc đầu tiên của Minnesota",
+"called_by": "Washington Post"
+},
+{
+"id": "g-me",
+"section": "governor",
+"state": "Maine",
+"winner": "Hannah Pingree (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "",
+"called_by": "Washington Post"
+},
+{
+"id": "g-pa",
+"section": "governor",
+"state": "Pennsylvania",
+"winner": "Josh Shapiro (D, đương nhiệm)",
+"winner_party": "D",
+"loser": "",
+"detail": "Tái đắc cử",
+"called_by": "Washington Post"
+},
+{
+"id": "g-md",
+"section": "governor",
+"state": "Maryland",
+"winner": "Wes Moore (D, đương nhiệm)",
+"winner_party": "D",
+"loser": "",
+"detail": "Tái đắc cử",
+"called_by": "Washington Post"
+},
+{
+"id": "g-fl",
+"section": "governor",
+"state": "Florida",
+"winner": "Byron Donalds (R)",
+"winner_party": "R",
+"loser": "David Jolly (D)",
+"detail": "Khoảng 50% so với 49%, với 99% khu bầu cử đã báo cáo",
+"called_by": "Washington Post"
+},
+{
+"id": "g-tn",
+"section": "governor",
+"state": "Tennessee",
+"winner": "Marsha Blackburn (R)",
+"winner_party": "R",
+"loser": "",
+"detail": "",
+"called_by": "Washington Post"
+},
+{
+"id": "g-nh",
+"section": "governor",
+"state": "New Hampshire",
+"winner": "Kelly Ayotte (R, đương nhiệm)",
+"winner_party": "R",
+"loser": "",
+"detail": "Tái đắc cử",
+"called_by": "Washington Post"
+},
+{
+"id": "h-pa7",
+"section": "house",
+"state": "Pennsylvania – PA-7",
+"winner": "Bob Brooks (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Dân chủ giành ghế từ Cộng hòa",
+"called_by": "NBC"
+},
+{
+"id": "h-pa",
+"section": "house",
+"state": "Pennsylvania (nhiều ghế)",
+"winner": "",
+"winner_party": "D",
+"loser": "",
+"detail": "4 dân biểu Cộng hòa đương nhiệm bị đánh bại",
+"called_by": "NBC"
+},
+{
+"id": "h-va2",
+"section": "house",
+"state": "Virginia – VA-2",
+"winner": "Elaine Luria (D)",
+"winner_party": "D",
+"loser": "Jen Kiggans (R, đương nhiệm)",
+"detail": "Dân chủ giành ghế từ Cộng hòa",
+"called_by": "NBC"
+},
+{
+"id": "h-nc11",
+"section": "house",
+"state": "North Carolina – NC-11",
+"winner": "Jamie Ager (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Lật ghế; lần đầu Dân chủ thắng ghế này kể từ 2010",
+"called_by": "CBS"
+},
+{
+"id": "h-ia",
+"section": "house",
+"state": "Iowa (4 ghế)",
+"winner": "",
+"winner_party": "D",
+"loser": "",
+"detail": "Dân chủ lật 3 trong 4 ghế Hạ viện của bang",
+"called_by": "CBS"
+},
+{
+"id": "h-wi3",
+"section": "house",
+"state": "Wisconsin – WI-3",
+"winner": "Mitchell Berman (D)",
+"winner_party": "D",
+"loser": "Derrick Van Orden (R, đương nhiệm)",
+"detail": "Một trong 2 ghế Dân chủ lật ở Wisconsin",
+"called_by": "AP (theo CNBC)"
+},
+{
+"id": "h-ky6",
+"section": "house",
+"state": "Kentucky – KY-6",
+"winner": "",
+"winner_party": "D",
+"loser": "",
+"detail": "Dân chủ lật ghế từ Cộng hòa",
+"called_by": "AP (theo CNBC)"
+},
+{
+"id": "h-nj7",
+"section": "house",
+"state": "New Jersey – NJ-7",
+"winner": "",
+"winner_party": "D",
+"loser": "Tom Kean Jr. (R, đương nhiệm)",
+"detail": "Kean thua trong một cuộc lật ghế quan trọng",
+"called_by": "AP (theo CNBC)"
+},
+{
+"id": "h-ia3",
+"section": "house",
+"state": "Iowa – IA-3",
+"winner": "Sarah Trone Garriott (D)",
+"winner_party": "D",
+"loser": "Zach Nunn (R, đương nhiệm)",
+"detail": "Dân chủ lật ghế",
+"called_by": "CNBC"
+},
+{
+"id": "h-pa1",
+"section": "house",
+"state": "Pennsylvania – PA-1",
+"winner": "Bob Harvie (D)",
+"winner_party": "D",
+"loser": "",
+"detail": "Dân chủ giành ghế từ Cộng hòa",
+"called_by": "NBC"
+}
+]
+}

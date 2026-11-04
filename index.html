@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bầu cử giữa kỳ Mỹ 2026: bảng kết quả</title>
+<meta name="description" content="Số ghế Hạ viện, Thượng viện, các cuộc đua Thượng viện và thống đốc. Tổng hợp từ dự báo của các hãng tin Mỹ, tự cập nhật định kỳ.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Bầu cử giữa kỳ Mỹ 2026: bảng kết quả (tự cập nhật)">
+<meta property="og:description" content="Số ghế Hạ viện, Thượng viện, các cuộc đua chưa ngã ngũ và thống đốc. Dự báo của các hãng tin, chưa phải kết quả chính thức.">
+<meta property="og:url" content="https://hainguyenee.github.io/bau-cu-2026/">
+<meta property="og:image" content="https://hainguyenee.github.io/bau-cu-2026/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1d1d1f; --muted: #6b6f76; --panel: #f6f7f9; --line: #e3e5e8;
+    --dem: #2f6fd0; --rep: #d0443b; --ind: #8a8f98; --pending: #c9ccd1;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #15171a; --fg: #ececee; --muted: #a0a4ab; --panel: #1e2125; --line: #33373d; --pending: #4a4f57; --dem: #4c8cf0; --rep: #ec5d53; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.5; }
+  .wrap { max-width: 72rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+  h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; font-size: 1.9rem; line-height: 1.2; margin: 0 0 .25rem; }
+  h2 { font-size: 1.1rem; font-weight: 600; margin: 0 0 .4rem; }
+  .sub { margin: 0 0 1rem; }
+  .note { color: var(--muted); font-size: .85rem; margin: 0; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap: 1rem; margin: 1rem 0 1.25rem; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem; min-width: 0; }
+  .status { font-family: Georgia, "Times New Roman", serif; font-size: 1.2rem; margin: 0 0 .6rem; }
+  .nums { display: flex; justify-content: space-between; align-items: flex-end; gap: .5rem; margin-bottom: .25rem; }
+  .num { display: flex; flex-direction: column; }
+  .num.u { align-items: center; } .num.r { align-items: flex-end; }
+  .num b { font-family: Georgia, "Times New Roman", serif; font-weight: 400; font-size: 2.1rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .num.d b { color: var(--dem); } .num.r b { color: var(--rep); } .num.u b { color: var(--muted); }
+  .num span { font-size: .8rem; color: var(--muted); }
+  .bar { position: relative; height: 48px; margin: .2rem 0 .6rem; }
+  .bar .track { position: absolute; left: 0; right: 0; top: 18px; height: 20px; border-radius: 5px; overflow: hidden; display: flex; background: var(--pending); }
+  .bar .seg { height: 100%; }
+  .bar .maj { position: absolute; top: 14px; height: 28px; border-left: 2px dashed var(--fg); }
+  .bar .majl { position: absolute; top: -2px; font-size: .78rem; color: var(--muted); white-space: nowrap; transform: translateX(-50%); }
+  .legend { display: flex; flex-wrap: wrap; gap: 1rem; margin: .5rem 0 0; }
+  .legend span::before { content: ""; display: inline-block; width: .7em; height: .7em; border-radius: 2px; margin-right: .35em; vertical-align: -.05em; }
+  .legend .ld::before { background: var(--dem); } .legend .lr::before { background: var(--rep); } .legend .lu::before { background: var(--pending); }
+  section { margin-top: 2rem; }
+  section > .note { margin-bottom: .6rem; }
+  .tw { overflow-x: auto; padding: 0; }
+  table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  th { text-align: left; font-weight: 600; color: var(--muted); font-size: .8rem; padding: .55rem .7rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  td { padding: .55rem .7rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  td.first { font-weight: 600; white-space: nowrap; }
+  td.pd { box-shadow: inset 3px 0 0 var(--dem); } td.pr { box-shadow: inset 3px 0 0 var(--rep); } td.pi { box-shadow: inset 3px 0 0 var(--ind); }
+  td.src { color: var(--muted); font-size: .82rem; }
+  .err { color: var(--rep); }
+  footer { margin-top: 2rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Bầu cử giữa kỳ Mỹ 2026: bảng kết quả</h1>
+  <p class="sub">Cập nhật lần cuối: <b id="asof">đang tải…</b></p>
+
+  <div class="grid" id="seats"></div>
+
+  <p class="note">Đây là dự báo kết quả (projection) do các hãng tin công bố, chưa phải kết quả chính thức. Kết quả chính thức chỉ có sau khi các bang chứng nhận, thường mất vài tuần. Trang được tổng hợp tự động từ tin tức và cập nhật khoảng mỗi 2 giờ, nên có thể chậm hơn tin trực tiếp. Cột "Ai gọi" ghi hãng tin đã công bố người thắng.</p>
+  <div class="legend note"><span class="ld">Dân chủ (D)</span><span class="lr">Cộng hòa (R)</span><span class="lu">Chưa có kết quả</span></div>
+
+  <section id="senate-open">
+    <h2>Thượng viện: chưa có ai gọi</h2>
+    <p class="note">Những cuộc đua còn đang đếm phiếu hoặc quá sát để gọi.</p>
+    <div class="card tw"><table><thead><tr><th>Bang</th><th>Tình hình</th><th>Nguồn</th></tr></thead><tbody data-section="senate_open" data-cols="state,detail,called_by"></tbody></table></div>
+  </section>
+
+  <section id="senate-called">
+    <h2>Thượng viện: đã có người thắng</h2>
+    <p class="note">"Lật ghế" nghĩa là ghế đổi sang đảng khác so với trước bầu cử.</p>
+    <div class="card tw"><table><thead><tr><th>Bang</th><th>Thắng</th><th>Thua</th><th>Ghi chú</th><th>Ai gọi</th></tr></thead><tbody data-section="senate_called" data-cols="state,winner,loser,detail,called_by"></tbody></table></div>
+  </section>
+
+  <section id="governors">
+    <h2>Thống đốc</h2>
+    <p class="note">Các cuộc đua thống đốc đã có người thắng theo các hãng tin.</p>
+    <div class="card tw"><table><thead><tr><th>Bang</th><th>Thắng</th><th>Thua</th><th>Ghi chú</th><th>Ai gọi</th></tr></thead><tbody data-section="governor" data-cols="state,winner,loser,detail,called_by"></tbody></table></div>
+  </section>
+
+  <section id="house">
+    <h2>Hạ viện: một số ghế đáng chú ý</h2>
+    <p class="note">Không phải danh sách đầy đủ mọi ghế, chỉ những ghế được các hãng tin nhắc đến nhiều.</p>
+    <div class="card tw"><table><thead><tr><th>Ghế</th><th>Thắng</th><th>Thua</th><th>Ghi chú</th><th>Ai gọi</th></tr></thead><tbody data-section="house" data-cols="state,winner,loser,detail,called_by"></tbody></table></div>
+  </section>
+
+  <footer class="note">Nguồn tổng hợp: NBC News, CBS News, CNBC, CQ Roll Call, Washington Post, Fox News, CalMatters, Bridge Michigan, WOWT và AP (qua các báo trên). Trang cá nhân, không thuộc hãng tin nào. Dữ liệu: <a href="data/races.json">races.json</a>, <a href="data/seats.json">seats.json</a>.</footer>
+</div>
+
+<script>
+(function () {
+  var fmt = function (n) { return Number(n).toLocaleString('en-US'); };
+  var el = function (tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; };
+  var bust = '?t=' + Math.floor(Date.now() / 60000);
+
+  function get(path) {
+    return fetch(path + bust, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) throw new Error(path + ': ' + r.status);
+      return r.json();
+    }).then(function (j) { return Array.isArray(j) ? j : (j.rows || []); });
+  }
+
+  function seatCard(s, ctl) {
+    var total = Number(s.total), d = Number(s.d), r = Number(s.r), ind = Number(s.ind) || 0;
+    var left = Math.max(0, total - d - r - ind), need = Number(s.needed);
+    var card = el('div', 'card');
+    card.appendChild(el('h2', null, s.label));
+    card.appendChild(el('p', 'status', ctl ? ctl.winner : ''));
+    var nums = el('div', 'nums');
+    [['d', d, 'Dân chủ'], ['u', left, 'Chưa có kết quả'], ['r', r, 'Cộng hòa']].forEach(function (x) {
+      var n = el('div', 'num ' + x[0]); n.appendChild(el('b', null, fmt(x[1]))); n.appendChild(el('span', null, x[2])); nums.appendChild(n);
+    });
+    card.appendChild(nums);
+    var bar = el('div', 'bar');
+    bar.setAttribute('role', 'img');
+    bar.setAttribute('aria-label', s.label + ': Dân chủ ' + d + ', Cộng hòa ' + r + ', chưa có kết quả ' + left + ', cần ' + need + ' để chiếm đa số');
+    var track = el('div', 'track');
+    var pct = function (v) { return (100 * v / total) + '%'; };
+    var segs = [[d, 'var(--dem)', 'Dân chủ'], [ind, 'var(--ind)', 'Độc lập'], [left, 'var(--pending)', 'Chưa có kết quả'], [r, 'var(--rep)', 'Cộng hòa']];
+    segs.forEach(function (g) {
+      if (g[0] <= 0) return;
+      var sg = el('div', 'seg'); sg.style.width = pct(g[0]); sg.style.background = g[1]; sg.title = g[2] + ': ' + fmt(g[0]) + ' ghế'; track.appendChild(sg);
+    });
+    bar.appendChild(track);
+    var maj = el('div', 'maj'); maj.style.left = pct(need); bar.appendChild(maj);
+    var ml = el('div', 'majl', 'Đa số: ' + fmt(need)); ml.style.left = 'clamp(2.5rem, ' + pct(need) + ', calc(100% - 2.5rem))'; bar.appendChild(ml);
+    card.appendChild(bar);
+    card.appendChild(el('p', 'note', 'Cần ' + fmt(need) + ' ghế để chiếm đa số. ' + (s.note || '')));
+    card.appendChild(el('p', 'note', 'Kiểm soát: dự báo của ' + (ctl ? ctl.called_by : '—') + '. Số ghế theo ' + s.called_by + ', ' + s.asof + '.'));
+    return card;
+  }
+
+  function fillTables(rows) {
+    document.querySelectorAll('tbody[data-section]').forEach(function (tb) {
+      var cols = tb.getAttribute('data-cols').split(',');
+      tb.replaceChildren();
+      rows.filter(function (x) { return x.section === tb.getAttribute('data-section'); }).forEach(function (x) {
+        var tr = document.createElement('tr');
+        cols.forEach(function (c, i) {
+          var td = el('td', null, x[c] == null ? '' : String(x[c]));
+          if (i === 0) {
+            td.classList.add('first');
+            var p = String(x.winner_party || '').toLowerCase();
+            if (p === 'd' || p === 'r' || p === 'i') td.classList.add('p' + p);
+          }
+          if (c === 'called_by') td.classList.add('src');
+          tr.appendChild(td);
+        });
+        tb.appendChild(tr);
+      });
+      if (!tb.children.length) {
+        var tr = document.createElement('tr'); var td = el('td', 'src', 'Chưa có.'); td.colSpan = cols.length; tr.appendChild(td); tb.appendChild(tr);
+      }
+    });
+  }
+
+  Promise.all([get('data/races.json'), get('data/seats.json')]).then(function (res) {
+    var races = res[0], seats = res[1];
+    var byId = {}; races.forEach(function (x) { byId[x.id] = x; });
+    document.getElementById('asof').textContent = byId.asof ? byId.asof.detail : '—';
+    var grid = document.getElementById('seats');
+    grid.replaceChildren();
+    ['house', 'senate'].forEach(function (ch) {
+      var s = seats.filter(function (x) { return x.chamber === ch; })[0];
+      if (s) grid.appendChild(seatCard(s, byId['ctl-' + ch]));
+    });
+    fillTables(races);
+  }).catch(function (e) {
+    var a = document.getElementById('asof'); a.textContent = 'không tải được dữ liệu, anh/chị thử tải lại trang'; a.className = 'err';
+    console.error(e);
+  });
+})();
+</script>
+</body>
+</html>

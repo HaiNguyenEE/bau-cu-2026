@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 06:45 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 07:50 sáng thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,7 +17,7 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC lúc 06:45 PT (chưa đổi so với lần trước): Dân chủ 231 ghế, Cộng hòa 144, còn 60 ghế chưa gọi. NBC dự báo Dân chủ sẽ có khoảng 258 ghế, nhiều nhất kể từ năm 1993.",
+   "detail": "Theo NBC lúc 07:50 PT (chưa đổi so với lần trước): Dân chủ 231 ghế, Cộng hòa 144, còn 60 ghế chưa gọi. NBC dự báo Dân chủ sẽ có khoảng 258 ghế, nhiều nhất kể từ năm 1993.",
    "called_by": "AP (theo Yahoo News), NBC, CBS, ABC"
   },
   {
@@ -37,8 +37,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. Theo NBC: Sullivan (R, đương nhiệm) 48,5%, Peltola (D) 47,7%, đã đếm khoảng 72%, Sullivan dẫn 1.677 phiếu. Chưa ai quá 50%. Theo Newsweek, bang sẽ cập nhật số phiếu vào các ngày 10, 13 và 18/11; nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11, dự kiến chứng nhận trước 25/11.",
-   "called_by": "NBC, Newsweek, Alaska Public Media"
+   "detail": "Chưa gọi. Bản kết quả không chính thức của Sở Bầu cử Alaska lúc 2:19 sáng 4/11 (giờ Alaska), hơn 98% điểm bầu đã báo cáo: Peltola (D) 102.701 phiếu (48,02%), Sullivan (R, đương nhiệm) 102.075 (47,73%), Peltola dẫn 626 phiếu. Bảng của NBC (số liệu AP, ít phiếu hơn) trước đó vẫn ghi Sullivan dẫn 48,5% – 47,7%. Chưa ai quá 50%. Bang còn nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, Alaska Public Media, NBC)"
   },
   {
    "id": "o-ms",
@@ -727,8 +727,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. NBC: Kreiss-Tomkins (D) 49,2%, Wilson (R) 29,2%, Bronson (R) 14,2%, đã đếm khoảng 210.800 phiếu. Nếu không ai quá 50%, sẽ tính phiếu xếp hạng.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: NBC)"
+   "detail": "Chưa gọi. Sở Bầu cử Alaska (2:19 sáng 4/11, giờ Alaska): Kreiss-Tomkins (D) 103.610 phiếu, 49,01%. NBC: Kreiss-Tomkins 49,2%, Wilson (R) 29,2%, Bronson (R) 14,2%. Nếu không ai quá 50%, sẽ tính phiếu xếp hạng.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, NBC)"
   },
   {
    "id": "g-ks",

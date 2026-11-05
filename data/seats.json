@@ -4,13 +4,13 @@
    "chamber": "house",
    "label": "Hạ viện",
    "d": 242,
-   "r": 146,
+   "r": 151,
    "ind": 0,
    "total": 435,
    "needed": 218,
    "called_by": "NBC News",
-   "asof": "khoảng 3:30 chiều 4/11/2026 (giờ Thái Bình Dương)",
-   "note": "Đây là số ghế đã có kết quả. NBC dự báo khi đếm xong, Dân chủ được ít nhất khoảng 258 ghế."
+   "asof": "khoảng 4:30 chiều 4/11/2026 (giờ Thái Bình Dương)",
+   "note": "Đây là số ghế đã có kết quả. NBC dự báo khi đếm xong, Dân chủ được ít nhất khoảng 259 ghế."
   },
   {
    "chamber": "senate",
@@ -21,7 +21,7 @@
    "total": 100,
    "needed": 51,
    "called_by": "NBC News (AP cũng ghi 54–44)",
-   "asof": "khoảng 3:30 chiều 4/11/2026 (giờ Thái Bình Dương)",
+   "asof": "khoảng 4:30 chiều 4/11/2026 (giờ Thái Bình Dương)",
    "note": "Tính cả các ghế không bầu năm nay. Dân chủ đã lật 7 ghế."
   }
  ]

@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 6:35 tối thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 7:40 tối thứ Tư 4/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,7 +17,7 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC lúc khoảng 6:35 tối PT: Dân chủ 242 ghế, Cộng hòa 151, còn 42 ghế chưa gọi. Dân chủ đã lật 35 ghế tính đến lúc này. NBC giờ ước Dân chủ sẽ có ít nhất 259 ghế, nhiều nhất kể từ năm 1993. (AP lúc 12:30 trưa giờ miền Đông: 229 – 139, còn 67 ghế chưa gọi.)",
+   "detail": "Theo NBC lúc khoảng 7:40 tối PT: Dân chủ 242 ghế, Cộng hòa 151, còn 42 ghế chưa gọi. Dân chủ đã lật 35 ghế; Cộng hòa mới lật được 1 ghế (TX-32). NBC ước Dân chủ sẽ có đa số khoảng 83 ghế (khoảng 259 – 176), nhiều nhất kể từ năm 1993. (AP lúc 12:30 trưa giờ miền Đông: 229 – 139, còn 67 ghế chưa gọi.)",
    "called_by": "AP (theo Yahoo News), NBC, CBS, ABC"
   },
   {
@@ -958,6 +958,16 @@
    "winner_party": "D",
    "loser": "Tom Barrett (R, đương nhiệm)",
    "detail": "Lật ghế từ Cộng hòa",
+   "called_by": "NBC"
+  },
+  {
+   "id": "h-tx32",
+   "section": "house",
+   "state": "Texas – TX-32",
+   "winner": "Jace Yarbrough (R)",
+   "winner_party": "R",
+   "loser": "",
+   "detail": "Lật ghế từ Dân chủ (khu vực vừa được vẽ lại; đây là ghế đầu tiên Cộng hòa giành thêm năm nay)",
    "called_by": "NBC"
   }
  ]

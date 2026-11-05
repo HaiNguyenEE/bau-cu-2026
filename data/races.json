@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 4:00 sáng thứ Năm 5/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 5:05 sáng thứ Năm 5/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,7 +17,7 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC lúc khoảng 4:00 sáng thứ Năm PT (không đổi từ khoảng 8:40 tối thứ Tư): Dân chủ 242 ghế, Cộng hòa 151, còn 42 ghế chưa gọi. Dân chủ đã lật 35 ghế; Cộng hòa mới lật được 1 ghế (TX-32). NBC ước Dân chủ sẽ có đa số khoảng 83 ghế (khoảng 259 – 176), nhiều nhất kể từ năm 1993. Bộ phận bầu cử của CNBC (lúc 5:15 chiều PT) ước Dân chủ được ít nhất 250 ghế, Cộng hòa ít nhất 165. CNN (sáng thứ Năm) cho biết Dân chủ sẽ được ít nhất 245 ghế. Ghế FL-27 (Miami-Dade) chênh chưa tới 0,5 điểm; NBC chưa gọi; ứng viên Dân chủ Eliott Rodriguez đang đứng sau Dân biểu María Elvira Salazar (R, đương nhiệm) và nói chưa chịu thua, và cuộc đua sẽ được đếm lại. Theo NBC, một ghế Hạ viện ở Louisiana sẽ phải bầu vòng hai vì không ai đạt 50%: Patricia Moore (D) 17,9% gặp Gabe Firment (R) 17,2%. CBS ước Dân chủ sẽ có từ 251 đến 268 ghế khi đếm xong. (AP lúc 5 giờ sáng thứ Năm giờ miền Đông: 240 – 147, còn 48 ghế chưa gọi.)",
+   "detail": "Theo NBC lúc khoảng 5:05 sáng thứ Năm PT (không đổi từ khoảng 8:40 tối thứ Tư): Dân chủ 242 ghế, Cộng hòa 151, còn 42 ghế chưa gọi. Dân chủ đã lật 35 ghế; Cộng hòa mới lật được 1 ghế (TX-32). NBC ước Dân chủ sẽ có đa số khoảng 83 ghế (khoảng 259 – 176), nhiều nhất kể từ năm 1993. Bộ phận bầu cử của CNBC (lúc 5:15 chiều PT) ước Dân chủ được ít nhất 250 ghế, Cộng hòa ít nhất 165. CNN (sáng thứ Năm) cho biết Dân chủ sẽ được ít nhất 245 ghế. Ghế FL-27 (Miami-Dade) chênh chưa tới 0,5 điểm; NBC chưa gọi; ứng viên Dân chủ Eliott Rodriguez đang đứng sau Dân biểu María Elvira Salazar (R, đương nhiệm) và nói chưa chịu thua, và cuộc đua sẽ được đếm lại. Theo NBC, một ghế Hạ viện ở Louisiana sẽ phải bầu vòng hai vì không ai đạt 50%: Patricia Moore (D) 17,9% gặp Gabe Firment (R) 17,2%. CBS ước Dân chủ sẽ có từ 251 đến 268 ghế khi đếm xong. (AP lúc 5 giờ sáng thứ Năm giờ miền Đông: 240 – 147, còn 48 ghế chưa gọi.)",
    "called_by": "AP (theo Yahoo News), NBC, CBS, ABC, CNN"
   },
   {
@@ -968,6 +968,16 @@
    "winner_party": "R",
    "loser": "",
    "detail": "Lật ghế từ Dân chủ (khu vực vừa được vẽ lại; đây là ghế đầu tiên Cộng hòa giành thêm năm nay)",
+   "called_by": "NBC"
+  },
+  {
+   "id": "h-ca48",
+   "section": "house",
+   "state": "California – CA-48",
+   "winner": "Marni von Wilpert (D)",
+   "winner_party": "D",
+   "loser": "Jim Desmond (R)",
+   "detail": "Lật ghế từ Cộng hòa (ghế trống của Dân biểu Darrell Issa (R), người đã nghỉ hưu; khu vực được vẽ lại theo Dự luật 50 của California)",
    "called_by": "NBC"
   }
  ]

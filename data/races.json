@@ -7,7 +7,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Khoảng 12:25 trưa thứ Năm 5/11/2026 (giờ Thái Bình Dương)",
+   "detail": "Khoảng 10:45 tối Chủ nhật 8/11/2026 (giờ Thái Bình Dương)",
    "called_by": ""
   },
   {
@@ -17,8 +17,8 @@
    "winner": "Dân chủ giành quyền kiểm soát",
    "winner_party": "D",
    "loser": "",
-   "detail": "Theo NBC lúc khoảng 12:25 trưa thứ Năm PT (không đổi từ khoảng 10:20 sáng): Dân chủ 244 ghế, Cộng hòa 155, còn 36 ghế chưa gọi. Tính đến tối thứ Tư, Dân chủ đã lật ít nhất 35 ghế; Cộng hòa mới lật được 1 ghế (TX-32). NBC ước Dân chủ sẽ có đa số khoảng 83 ghế (khoảng 259 – 176), nhiều nhất kể từ năm 1993. Bộ phận bầu cử của CNBC (lúc 5:15 chiều PT) ước Dân chủ được ít nhất 250 ghế, Cộng hòa ít nhất 165. CNN (sáng thứ Năm) cho biết Dân chủ sẽ được ít nhất 245 ghế và có thể tới 260 ghế, nhiều nhất kể từ đầu thập niên 1990. Ghế FL-27 (Miami-Dade) chênh chưa tới 0,5 điểm; NBC chưa gọi; ứng viên Dân chủ Eliott Rodriguez đang đứng sau Dân biểu María Elvira Salazar (R, đương nhiệm) và nói chưa chịu thua, và cuộc đua sẽ được đếm lại. Theo NBC, một ghế Hạ viện ở Louisiana sẽ phải bầu vòng hai vì không ai đạt 50%: Patricia Moore (D) 17,9% gặp Gabe Firment (R) 17,2%. CBS ước Dân chủ sẽ có từ 251 đến 268 ghế khi đếm xong. (AP lúc 5 giờ sáng thứ Năm giờ miền Đông: 240 – 147, còn 48 ghế chưa gọi.)",
-   "called_by": "AP (theo Yahoo News), NBC, CBS, ABC, CNN"
+   "detail": "Theo NBC lúc khoảng 10:45 tối Chủ nhật 8/11 (PT): Dân chủ 252 ghế, Cộng hòa 162, còn 21 ghế chưa gọi. AP (Chủ nhật): Dân chủ 254 – Cộng hòa 162, còn 19 ghế. NBC ước khi đếm xong Dân chủ có khoảng 259 ghế, Cộng hòa 176 (đa số 83 ghế), nhiều nhất kể từ năm 1993. Cộng hòa mới lật được 1 ghế (TX-32). Các ghế sát đáng chú ý còn chưa gọi: CO-4 (Eileen Laubacher (D) 48,8% – Lauren Boebert (R, đương nhiệm) 47,9%, đã đếm 97,5%; theo NBC, Boebert cần khoảng 65% số phiếu còn lại mới bắt kịp); FL-27 (Dân biểu María Elvira Salazar (R) dẫn Eliott Rodriguez (D) khoảng 0,4 điểm, sẽ đếm lại); ME-2 (LePage (R) 49,9% dẫn Dunlap (D), đã đếm 97,8%). Một ghế Hạ viện ở Louisiana phải bầu vòng hai: Patricia Moore (D) gặp Gabe Firment (R).",
+   "called_by": "NBC, AP (theo Yahoo News), CBS, CNN, ABC"
   },
   {
    "id": "ctl-senate",
@@ -37,8 +37,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. Sáng thứ Tư Peltola (D) vượt lên: 102.701 phiếu (48,02%) so với Sullivan (R, đương nhiệm) 102.075 (47,73%), dẫn 626 phiếu (Sở Bầu cử Alaska, 394/401 điểm bầu; AP/NBC ghi 48,2% – 47,9%, khoảng 74% phiếu dự kiến). Chưa ai quá 50%. Một ứng viên Cộng hòa khác cũng tên Dan Sullivan (Daniel J. Sullivan) được khoảng 3.600 phiếu, nhiều hơn cách biệt giữa hai người dẫn đầu; việc ông này có tên trên lá phiếu đang bị tranh chấp ở tòa và Bộ Tư pháp Mỹ cho biết sẽ kháng cáo một phán quyết liên quan (theo Fox News, AFP). Theo Sở Bầu cử, bang không bắt buộc công bố thêm số liệu cho đến 10/11, khi phần lớn phiếu bầu sớm và phiếu gửi thư còn lại được đếm; bang nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, AP/NBC, The Hill, Fox News, AFP)"
+   "detail": "Chưa gọi. Theo AP (số chưa cập nhật từ sáng thứ Tư 4/11), Peltola (D) dẫn 637 phiếu với khoảng 74% phiếu đã đếm. Sáng thứ Tư Peltola vượt lên: 102.701 phiếu (48,02%) so với Sullivan (R, đương nhiệm) 102.075 (47,73%), dẫn 626 phiếu (Sở Bầu cử Alaska, 394/401 điểm bầu; AP/NBC ghi 48,2% – 47,9%, khoảng 74% phiếu dự kiến). Chưa ai quá 50%. Một ứng viên Cộng hòa khác cũng tên Dan Sullivan (Daniel J. Sullivan) được khoảng 3.600 phiếu, nhiều hơn cách biệt giữa hai người dẫn đầu; việc ông này có tên trên lá phiếu đang bị tranh chấp ở tòa và Bộ Tư pháp Mỹ cho biết sẽ kháng cáo một phán quyết liên quan (theo Fox News, AFP). Theo Sở Bầu cử, bang không bắt buộc công bố thêm số liệu cho đến 10/11, khi phần lớn phiếu bầu sớm và phiếu gửi thư còn lại được đếm; bang nhận phiếu gửi thư 10 ngày (15 ngày nếu gửi từ nước ngoài); nếu vẫn chưa ai quá 50%, phiếu xếp hạng được tính ngày 18/11. Kết quả sẽ được chứng nhận khoảng 25/11. Tổng thống Trump đăng trên mạng xã hội rằng phiếu của ứng viên Dan J. Sullivan nên được tính cho Thượng nghị sĩ Sullivan.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, AP qua Yahoo News, NBC, Anchorage Daily News, Fox News, AFP)"
   },
   {
    "id": "o-ms",
@@ -47,8 +47,8 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. Trưa thứ Năm (khoảng 12:45 giờ miền Đông), theo số liệu ABC hiển thị: Colom (D) 466.226 phiếu (49,0%) – Hyde-Smith (R, đương nhiệm) 464.502 (48,9%), Colom dẫn 1.724 phiếu (Washington Post cũng ghi 1.724; Mississippi Free Press ghi 1.764). Tối thứ Tư Colom dẫn 1.138, sáng thứ Tư chỉ dẫn 65. Đã đếm khoảng 96%; AP vẫn chưa gọi. Theo báo The Dispatch, phiếu affidavit và phiếu gửi thư còn lại có thể lên tới khoảng 18.000, và có thể hơn một tuần nữa mới biết ai thắng; theo Văn phòng Ngoại trưởng Mississippi (qua đài WDAM và Fox News), giới chức còn đang chờ nhận một đợt khoảng 3.600 phiếu vắng mặt gửi qua thư; Văn phòng Ngoại trưởng Mississippi nói chưa có con số tổng phiếu affidavit. Cử tri bỏ phiếu affidavit có 5 ngày làm việc (đến thứ Ba tuần sau) để xác minh danh tính; phiếu gửi thư được nhận đến 10/11. Cả hai bên đều nói tin mình sẽ thắng; phía Colom có luật sư (gồm hãng Elias Law Group) theo dõi việc đếm phiếu. Bang không có vòng bầu lại, và Văn phòng Ngoại trưởng Mississippi xác nhận với ABC là bang không có thủ tục đếm lại chính thức.",
-   "called_by": "Chưa có hãng nào gọi (số liệu: AP qua WLBT, WDAM, The Dispatch; ABC; Washington Post; Mississippi Free Press; NBC)"
+   "detail": "Chưa gọi. Theo AP (chiều thứ Bảy 7/11): Colom (D) 467.930 phiếu (49,1%) – Hyde-Smith (R, đương nhiệm) 465.356 (48,8%), Colom dẫn 2.574 phiếu, đã đếm khoảng 97%. Khoảng cách tăng sau mỗi đợt đếm: sáng 4/11 chỉ 65 phiếu, tối 4/11 là 1.138, trưa 5/11 là 1.724. Ngoại trưởng bang Michael Watson (R) cho biết đã xử lý 11.202 phiếu affidavit (phiếu tạm thời), chấp nhận 78%, và văn phòng ông không biết còn bao nhiêu; đầu tuần ông ước còn khoảng 12.000–20.000. Còn chờ khoảng 3.000 phiếu gửi thư. Chủ tịch đảng Cộng hòa bang ước còn khoảng 20.000 phiếu chưa đếm và cho rằng nhiều phiếu nằm ở vùng nghiêng về Cộng hòa; phía Colom nói Hyde-Smith không còn đường thắng. Thứ Ba 10/11 là hạn chót để các quận đếm phiếu, cử tri bổ sung giấy tờ cho phiếu affidavit và phiếu gửi thư phải về tới; 13/11 là hạn quận chứng nhận kết quả. Luật sư của Hyde-Smith đã gửi thư yêu cầu các quận giữ nguyên phiếu affidavit; phía Colom cũng cử luật sư giám sát. Bang không có vòng bầu lại và không có luật đếm lại; muốn đếm lại phải ra tòa.",
+   "called_by": "Chưa có hãng nào gọi (số liệu: AP qua Natchez Democrat, MS NOW, WLBT; Yahoo News; Mississippi Free Press)"
   },
   {
    "id": "s-tx",
@@ -727,7 +727,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa gọi. Sở Bầu cử Alaska (2:19 sáng 4/11, giờ Alaska): Kreiss-Tomkins (D) 103.610 phiếu, 49,01%. NBC: Kreiss-Tomkins 49,2%, Wilson (R) 29,2%, Bronson (R) 14,2%. Nếu không ai quá 50%, sẽ tính phiếu xếp hạng.",
+   "detail": "Chưa gọi. Sở Bầu cử Alaska (2:19 sáng 4/11, giờ Alaska): Kreiss-Tomkins (D) 103.610 phiếu, 49,01%. NBC (Chủ nhật): Kreiss-Tomkins 49,1%, Bronson (R) 14,2%; theo AP, Kreiss-Tomkins dẫn Bernadette Wilson (R) khoảng 20 điểm. Nếu không ai quá 50%, sẽ tính phiếu xếp hạng.",
    "called_by": "Chưa có hãng nào gọi (số liệu: Sở Bầu cử Alaska, NBC)"
   },
   {
@@ -737,7 +737,7 @@
    "winner": "",
    "winner_party": "",
    "loser": "",
-   "detail": "Chưa có hãng nào gọi (AP chỉ gọi khi không còn khả năng người đang thua bắt kịp). Số mới chiều thứ Tư: Holscher (D) 546.648 – Masterson (R) 541.070, Holscher dẫn 5.578 phiếu (0,51%). Sáng thứ Năm, NBC cho biết với 99% phiếu đã đếm, Holscher dẫn hơn 7.000 phiếu (50,3% – 49,7%). Theo AP, quận còn nhiều phiếu chưa đếm nhất là Leavenworth, nơi Masterson đang thắng; nếu cách biệt xuống dưới 0,5 điểm thì bang sẽ trả tiền đếm lại, và cuộc đua có thể đi tới bước chứng nhận kết quả trước khi AP gọi được. Vì cách biệt dưới 1%, bang đã khởi động kiểm toán: các quận sẽ đếm tay phiếu của 10% điểm bầu. Phiếu gửi thư đóng dấu trước ngày bầu cử và đến trước thứ Sáu 6/11 vẫn được đếm; hội đồng quận sẽ xét phiếu tạm (provisional). Holscher đã tuyên bố thắng và Thống đốc Laura Kelly đã chúc mừng; Masterson chưa nhận thua, nói luật Kansas đòi \"xem xét lại\" và có thể xin đếm lại toàn bộ sau khi các quận chứng nhận kết quả.",
+   "detail": "Chưa có hãng nào gọi (AP chỉ gọi khi không còn khả năng người đang thua bắt kịp). Số mới chiều thứ Tư: Holscher (D) 546.648 – Masterson (R) 541.070, Holscher dẫn 5.578 phiếu (0,51%). Theo AP, với khoảng 99% phiếu đã đếm, Holscher dẫn 7.045 phiếu (50,3% – 49,7%). Holscher đã tuyên bố thắng, Masterson chưa chịu thua. Theo AP, quận còn nhiều phiếu chưa đếm nhất là Leavenworth, nơi Masterson đang thắng; nếu cách biệt xuống dưới 0,5 điểm thì bang sẽ trả tiền đếm lại, và cuộc đua có thể đi tới bước chứng nhận kết quả trước khi AP gọi được. Vì cách biệt dưới 1%, bang đã khởi động kiểm toán: các quận sẽ đếm tay phiếu của 10% điểm bầu. Phiếu gửi thư đóng dấu trước ngày bầu cử và đến trước thứ Sáu 6/11 vẫn được đếm; hội đồng quận sẽ xét phiếu tạm (provisional). Holscher đã tuyên bố thắng và Thống đốc Laura Kelly đã chúc mừng; Masterson chưa nhận thua, nói luật Kansas đòi \"xem xét lại\" và có thể xin đếm lại toàn bộ sau khi các quận chứng nhận kết quả.",
    "called_by": "Chưa có hãng nào gọi (số liệu: Kansas Reflector, WIBW, KCUR, NBC, AP qua Yahoo News)"
   },
   {
@@ -1029,6 +1029,16 @@
    "loser": "Juan Ciscomani (R, đương nhiệm)",
    "detail": "Lật ghế từ Cộng hòa (NBC: 53% – 44,9%)",
    "called_by": "NBC"
+  },
+  {
+   "id": "h-sc1",
+   "section": "house",
+   "state": "South Carolina – SC-1",
+   "winner": "Nancy Lacore (D)",
+   "winner_party": "D",
+   "loser": "Jenny Costa Honeycutt (R)",
+   "detail": "Lật ghế từ Cộng hòa (ghế trống của Dân biểu Nancy Mace (R), người đã ra tranh cử thống đốc và thua ở vòng sơ bộ)",
+   "called_by": "CBS"
   }
  ]
 }
